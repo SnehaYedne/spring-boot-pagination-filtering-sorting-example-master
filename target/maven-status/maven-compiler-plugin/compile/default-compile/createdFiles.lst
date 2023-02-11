@@ -1,0 +1,5 @@
+com\loizenai\springboot\pagingansorting\repository\CustomerRepository.class
+com\loizenai\springboot\pagingansorting\model\Response.class
+com\loizenai\springboot\pagingansorting\restapis\RestController.class
+com\loizenai\springboot\pagingansorting\SpringBootPagingAndSortingApplication.class
+com\loizenai\springboot\pagingansorting\model\Customer.class
